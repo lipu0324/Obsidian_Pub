@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01_科研项目/UEC/PDC映射算法/","tags":["UEC","学术与知识","算法","开发"]}
+{"dg-publish":true,"permalink":"/01_科研项目/UEC/PDC映射算法/"}
 ---
 
 
