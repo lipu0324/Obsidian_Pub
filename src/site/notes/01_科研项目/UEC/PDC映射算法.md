@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01_科研项目/UEC/PDC映射算法/","tags":["UEC","算法实现","网络体系结构","C语言","科研项目"]}
+{"dg-publish":true,"permalink":"/01_科研项目/UEC/PDC映射算法/","tags":["UEC","学术与知识","算法","开发"]}
 ---
 
 
